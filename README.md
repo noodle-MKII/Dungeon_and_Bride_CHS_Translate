@@ -15,3 +15,4 @@
 - 本补丁仅供交流学习使用，下载后请于24小时内删除，请勿用作商业用途
 - 解包软件(garbro)地址: https://github.com/morkt/GARbro/releases
 - 本人贴吧地址: https://tieba.baidu.com/p/9926767121?pn=1#152463522254l
+- 图片汉化贴吧地址: https://tieba.baidu.com/p/9917294930
