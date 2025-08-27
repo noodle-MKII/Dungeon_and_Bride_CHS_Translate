@@ -1,0 +1,2 @@
+# Dungeon_and_Bride_CHS_Translate
+地牢与新娘中文化补丁
