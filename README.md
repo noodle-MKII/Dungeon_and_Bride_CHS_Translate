@@ -11,10 +11,10 @@
 
 ## 注意事项
 
-- 在使用发行版本时，请注意与原版本保持一致
+- 在使用发行版本时，请注意与原版本保持一致，否则可能有bug
 - 使用本汉化补丁前请提前备份好存档，避免您的财产损失
 - 补丁版本信息在上方的"版本信息(I)"中，请确认版本一致
 - 出现bug时请移除本补丁
-- 解包软件(garbro)地址: https://github.com/morkt/GARbro/releases
-- 本人贴吧地址: https://tieba.baidu.com/p/9926767121?pn=1#152463522254l
-- 图片汉化贴吧地址: https://tieba.baidu.com/p/9917294930
+- 解包软件(garbro)地址: <https://github.com/morkt/GARbro/releases>
+- 本人贴吧地址: <https://tieba.baidu.com/p/9926767121?pn=1#152463522254l>
+- 图片汉化贴吧地址: <https://tieba.baidu.com/p/9917294930>
